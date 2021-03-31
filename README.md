@@ -8,11 +8,11 @@ Additional functionality & Supplement in Smart Campus
 
 ## Member
 
-* 민수영 - Team Leader
-* 김민서
-* 이찬종
-* 유태우
-* 함수민
+> * 민수영 - Team Leader
+> * 김민서
+> * 이찬종
+> * 유태우
+> * 함수민
 
 ## Schedule
 
