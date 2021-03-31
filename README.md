@@ -22,3 +22,16 @@ Additional functionality & Supplement in Smart Campus
 |Requirements specification|4/25|
 |Design specification|5/16|
 |Test specification|5/30|
+
+## Directory Structure
+
+```
+2021spring_41class_team5
+├─doc
+|  └─ proposal.md
+|
+|
+|
+└─ README.md
+```
+
