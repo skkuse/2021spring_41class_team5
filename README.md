@@ -28,8 +28,8 @@ Additional functionality & Supplement in Smart Campus
 ```
 2021spring_41class_team5
 ├─doc
-|  └─ proposal.md
-|
+|  ├── proposal.md
+|  └── proposal.pdf
 |
 |
 └─ README.md
