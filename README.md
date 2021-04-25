@@ -29,8 +29,9 @@ Additional functionality & Supplement in Smart Campus
 2021spring_41class_team5
 ├─doc
 |  ├── proposal.md
-|  └── proposal.pdf
-|
+|  ├── proposal.pdf
+|  ├── Requirements.docx
+|  └── Requirements.pdf
 |
 └─ README.md
 ```
