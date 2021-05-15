@@ -31,8 +31,9 @@ Additional functionality & Supplement in Smart Campus
 |  ├── proposal.md
 |  ├── proposal.pdf
 |  ├── Requirements.docx
-|  └── Requirements.pdf
-|
+|  ├── Requirements.pdf
+|  ├── DesignSpecification_TEAM5.docx
+|  └── DesignSpecification_TEAM5.pdf
 └─ README.md
 ```
 
