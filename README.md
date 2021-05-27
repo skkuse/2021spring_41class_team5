@@ -33,7 +33,10 @@ Additional functionality & Supplement in Smart Campus
 |  ├── Requirements.docx
 |  ├── Requirements.pdf
 |  ├── DesignSpecification_TEAM5.docx
-|  └── DesignSpecification_TEAM5.pdf
+|  ├── DesignSpecification_TEAM5.pdf
+|  ├── TestPlan_TEAM5.docx
+|  └── TestPlan_TEAM5.pdf
+|
 └─ README.md
 ```
 
